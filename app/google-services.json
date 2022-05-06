@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "768156252438",
+    "firebase_url": "https://codial6-default-rtdb.firebaseio.com",
+    "project_id": "codial6",
+    "storage_bucket": "codial6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768156252438:android:7f19b57b2773bdcda8b837",
+        "android_client_info": {
+          "package_name": "uz.ilhomjon.firebasedatabase6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768156252438-g22o43p4ii18rocoes0946gb8f0okask.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoolUJWGHzNAUF8KsIIH-awkAj8Tvw5DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768156252438-g22o43p4ii18rocoes0946gb8f0okask.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768156252438:android:1e1c2278463dd557a8b837",
+        "android_client_info": {
+          "package_name": "uz.mnsh.firebaseauth6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768156252438-gq5u0uc4gg32irr5i8m3021kksv8pgu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.mnsh.firebaseauth6",
+            "certificate_hash": "66671bc41feab718017d79961be0489f7ed3a4f0"
+          }
+        },
+        {
+          "client_id": "768156252438-g22o43p4ii18rocoes0946gb8f0okask.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoolUJWGHzNAUF8KsIIH-awkAj8Tvw5DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768156252438-g22o43p4ii18rocoes0946gb8f0okask.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768156252438:android:3d63f39e5a1222fca8b837",
+        "android_client_info": {
+          "package_name": "uz.mnsh.realtime6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768156252438-g22o43p4ii18rocoes0946gb8f0okask.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoolUJWGHzNAUF8KsIIH-awkAj8Tvw5DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768156252438-g22o43p4ii18rocoes0946gb8f0okask.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
