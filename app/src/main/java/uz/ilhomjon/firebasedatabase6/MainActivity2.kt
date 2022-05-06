@@ -14,7 +14,7 @@ class MainActivity2 : AppCompatActivity() {
 
         binding.btnError.setOnClickListener {
             //click
-            throw ArithmeticException("Android 6 bilan birgalikdagi xatoligimiz")
+            throw ArithmeticException("Android 6 so'zini ozgartirdim")
         }
     }
 }
