@@ -13,6 +13,7 @@ class MainActivity2 : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.btnError.setOnClickListener {
+            //click
             throw ArithmeticException("Android 6 bilan birgalikdagi xatoligimiz")
         }
     }
